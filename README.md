@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="henryalgo.png"/>
+      <img src="HenryAlgo.png"/>
     </td>
   </tr>
 </table>
