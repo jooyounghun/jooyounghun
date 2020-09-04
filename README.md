@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me, How are your direction of life!
 - 📫 How to reach me: Send message to jymk04130@gmail.com
-- 😄 Pronouns:
+- 😄 Pronouns: Henry(Joo Young Hun)
 - Tistory Blog: https://datacodingschool.tistory.com/
 - Naver Blog(Same as above): https://blog.naver.com/jymk0413
 - My Youtube Channel: https://www.youtube.com/channel/UCYYao-BSPaetw7N2GFFJ-Yw?view_as=subscriber
