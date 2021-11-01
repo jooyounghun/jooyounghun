@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Send message to jymk04130@gmail.com
 - 😄 Pronouns: Henry(Joo Young Hun)
 - Tistory Blog: https://datacodingschool.tistory.com/
-- Naver Blog(Same as above): https://blog.naver.com/jymk0413
-- My Youtube Channel: https://www.youtube.com/channel/UCYYao-BSPaetw7N2GFFJ-Yw?view_as=subscriber
 
 
 ### Thank you for visit 👋
