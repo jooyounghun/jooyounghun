@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Naver Corp for 2 month by Intership Program as data analyst
+- 🔭 I’m currently working on KDB Capital as IT support member
 - 🌱 I’m currently learning Spring framework and want to learn NoSQL Skill
 - 👯 I’m looking to collaborate on Bigdata Project
 - 🤔 I’m looking for help with ...
