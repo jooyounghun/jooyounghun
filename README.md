@@ -6,11 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on KDB Capital as IT support member
-- 🌱 I’m currently learning Spring framework and want to learn NoSQL Skill
+- 🔭 I’m currently working on G-Market as software engineer
+- 🌱 I’m currently learning Apache Zeppelin
 - 👯 I’m looking to collaborate on Bigdata Project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me, How are your direction of life!
 - 📫 How to reach me: Send message to jymk04130@gmail.com
 - 😄 Pronouns: Henry(Joo Young Hun)
 - Tistory Blog: https://datacodingschool.tistory.com/
