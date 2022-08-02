@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on G-Market as software engineer
+- 🔭 I’m currently working on G-Market as data engineer
 - 🌱 I’m currently learning Apache Zeppelin
 - 👯 I’m looking to collaborate on Bigdata Project
 - 📫 How to reach me: Send message to jymk04130@gmail.com
